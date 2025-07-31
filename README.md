@@ -30,6 +30,6 @@ It simulates 35 real-world data tasks such as identifying trends, updating recor
 - MEDICAL DATA HISTORY ppt.pptx — Slide deck summarizing the project
 
 # ✅ How to Use
-1 Import the database tables into your SQL environment (MySQL or compatible).
-2 Run queries from MedicalDataHistory.sql one by one or as needed.
-3 Use the PPT to present findings or include screenshots in documentation.
+1. Import the database tables into your SQL environment (MySQL or compatible).
+2. Run queries from MedicalDataHistory.sql one by one or as needed.
+3. Use the PPT to present findings or include screenshots in documentation.
