@@ -1,4 +1,4 @@
- Healthcare-Data-Analysis-and-Patient-History-Management-Using-SQL
+# Healthcare-Data-Analysis-and-Patient-History-Management-Using-SQL
 
 # 📘 Project Overview
 This project analyzes a healthcare database using SQL to extract meaningful insights from interconnected datasets — including patient records, doctor information, and hospital admissions.
