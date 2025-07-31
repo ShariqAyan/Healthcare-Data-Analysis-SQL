@@ -26,10 +26,10 @@ It simulates 35 real-world data tasks such as identifying trends, updating recor
 - Generating temporary passwords using custom string logic
 
 # 📂 Files in This Repository
-- MEDICAL DATA HISTORY ppt.pptx — Slide deck summarizing the project
-- MedicalDataHistory.sql — All 35 queries used in the analysis
+- Healthcare Data Analysis.docx — Word document summarizing the project
+- Healthcare Data Analysis_Queries.sql — All 35 queries used in the analysis
 
 # ✅ How to Use
 1. Import the database tables into your SQL environment (MySQL or compatible).
-2. Run queries from MedicalDataHistory.sql one by one or as needed.
-3. Use the PPT to present findings or include screenshots in documentation.
+2. Run queries from Healthcare Data Analysis_Queries.sql one by one or as needed.
+3. Use the Word document to present findings or include screenshots in documentation.
