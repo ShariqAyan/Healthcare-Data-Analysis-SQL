@@ -26,8 +26,8 @@ It simulates 35 real-world data tasks such as identifying trends, updating recor
 - Generating temporary passwords using custom string logic
 
 # 📂 Files in This Repository
-- MedicalDataHistory.sql — All 35 queries used in the analysis
 - MEDICAL DATA HISTORY ppt.pptx — Slide deck summarizing the project
+- MedicalDataHistory.sql — All 35 queries used in the analysis
 
 # ✅ How to Use
 1. Import the database tables into your SQL environment (MySQL or compatible).
