@@ -17,3 +17,19 @@ It simulates 35 real-world data tasks such as identifying trends, updating recor
 - Grouping and aggregation (GROUP BY, HAVING, COUNT, SUM)
 - String operations (CONCAT, LOWER, UPPER)
 - Date filtering and formatting (YEAR(), DAY())
+
+# 🚧 Challenges Addressed
+- Replacing missing allergy values with "NKA"
+- Handling joins with mismatched foreign keys
+- Categorizing patients by weight and calculating BMI
+- Finding values that occur only once (e.g., unique first names)
+- Generating temporary passwords using custom string logic
+
+# 📂 Files in This Repository
+- MedicalDataHistory.sql — All 35 queries used in the analysis
+- MEDICAL DATA HISTORY ppt.pptx — Slide deck summarizing the project
+
+# ✅ How to Use
+1 Import the database tables into your SQL environment (MySQL or compatible).
+2 Run queries from MedicalDataHistory.sql one by one or as needed.
+3 Use the PPT to present findings or include screenshots in documentation.
